@@ -34,7 +34,6 @@ const App = () => {
 
     const handlePageChange = (selectedPage) => {
         setLoading(true)
-        window.scrollTo(0, 0)
         setPage(selectedPage.selected)
     };
 
