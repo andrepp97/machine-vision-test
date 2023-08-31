@@ -1,8 +1,18 @@
-Run This Repository Locally
-> npm install
-> npm run dev
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run It
+   ```sh
+   npm run dev
+   ```
 
-# React + Vite
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
